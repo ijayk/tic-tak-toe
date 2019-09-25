@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "api-project-467079250857": {
+      "hosting": {
+        "tic-tac-toe": [
+          "api-project-467079250857"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tic-tac-toe-2a092"
+  }
+}
